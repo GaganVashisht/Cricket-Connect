@@ -1,16 +1,29 @@
 # cricket
 
-A new Flutter project.
 
-## Getting Started
+<p align ="centre">
+<img src="https://github.com/GaganVashisht/Cricket-Connect/blob/01a6d9fec81602e7849565a9b97204e66222cfa7/app%20Screenshots/Screenshot_2021-07-14-17-09-46-165_com.example.cricket.jpg"  alt="News Screen" width="200" height="400" /></p>
 
-This project is a starting point for a Flutter application.
+<p align ="centre">
+<img src="https://github.com/GaganVashisht/Cricket-Connect/blob/01a6d9fec81602e7849565a9b97204e66222cfa7/app%20Screenshots/Screenshot_2021-07-14-17-10-25-146_com.example.cricket.jpg"  alt="Live Matches" width="200" height="400" /></p>
 
-A few resources to get you started if this is your first Flutter project:
+<p align ="center">
+<img src="https://github.com/GaganVashisht/Cricket-Connect/blob/01a6d9fec81602e7849565a9b97204e66222cfa7/app%20Screenshots/Screenshot_2021-07-14-17-10-28-503_com.example.cricket.jpg"  alt="More screen" width="200" height="400" /></p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p align ="center">
+<img src="https://github.com/GaganVashisht/Cricket-Connect/blob/01a6d9fec81602e7849565a9b97204e66222cfa7/app%20Screenshots/Screenshot_2021-07-14-17-10-38-155_com.example.cricket.jpg"  alt="Upcoming Matches" width="200" height="400" /></p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align ="center">
+<img src="https://github.com/GaganVashisht/Cricket-Connect/blob/01a6d9fec81602e7849565a9b97204e66222cfa7/app%20Screenshots/Screenshot_2021-07-14-17-10-49-997_com.example.cricket.jpg"  alt="main screen" width="200" height="400" /></p>
+
+<p align ="center">
+<img src="https://github.com/GaganVashisht/Cricket-Connect/blob/01a6d9fec81602e7849565a9b97204e66222cfa7/app%20Screenshots/Screenshot_2021-07-14-17-11-02-998_com.example.cricket.jpg"  alt="Ranking screen" width="200" height="400" /></p>
+
+<p align ="center">
+<img src="https://github.com/GaganVashisht/Cricket-Connect/blob/01a6d9fec81602e7849565a9b97204e66222cfa7/app%20Screenshots/Screenshot_2021-07-14-17-11-09-476_com.example.cricket.jpg"  alt="Stadium List" width="200" height="400" /></p>
+
+<p align ="center">
+<img src="https://github.com/GaganVashisht/Cricket-Connect/blob/01a6d9fec81602e7849565a9b97204e66222cfa7/app%20Screenshots/Screenshot_2021-07-14-17-11-57-557_com.example.cricket.jpg"  alt="Player Search screen" width="200" height="400" /></p>
+
+<p align ="center">
+<img src="https://github.com/GaganVashisht/Cricket-Connect/blob/01a6d9fec81602e7849565a9b97204e66222cfa7/app%20Screenshots/Screenshot_2021-07-14-17-12-06-674_com.example.cricket.jpg"  alt="Player Profile" width="200" height="400" /></p>
