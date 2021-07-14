@@ -27,3 +27,6 @@
 
 <p align ="center">
 <img src="https://github.com/GaganVashisht/Cricket-Connect/blob/01a6d9fec81602e7849565a9b97204e66222cfa7/app%20Screenshots/Screenshot_2021-07-14-17-12-06-674_com.example.cricket.jpg"  alt="Player Profile" width="200" height="400" /></p>
+
+<p align ="center">
+<img src="https://github.com/GaganVashisht/Cricket-Connect/blob/1a974460a30c8c46b897558b10536c4639b94c66/app%20Screenshots/Screenshot_2021-07-14-17-36-32-746_com.example.cricket.jpg"  alt="Player\ Records" width="200" height="400" /></p>
