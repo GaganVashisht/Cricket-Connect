@@ -1,10 +1,10 @@
 # cricket
 
 
-<p align ="centre">
+<p align ="center">
 <img src="https://github.com/GaganVashisht/Cricket-Connect/blob/01a6d9fec81602e7849565a9b97204e66222cfa7/app%20Screenshots/Screenshot_2021-07-14-17-09-46-165_com.example.cricket.jpg"  alt="News Screen" width="200" height="400" /></p>
 
-<p align ="centre">
+<p align ="center">
 <img src="https://github.com/GaganVashisht/Cricket-Connect/blob/01a6d9fec81602e7849565a9b97204e66222cfa7/app%20Screenshots/Screenshot_2021-07-14-17-10-25-146_com.example.cricket.jpg"  alt="Live Matches" width="200" height="400" /></p>
 
 <p align ="center">
